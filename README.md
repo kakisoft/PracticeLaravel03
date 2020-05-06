@@ -1,4 +1,4 @@
-# PracticeLaravel02
+# PracticeLaravel03
 Laravel で色々遊ぶ用のリポジトリ
 
 
