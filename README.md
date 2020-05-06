@@ -1,6 +1,7 @@
 # PracticeLaravel03
-Laravel で色々遊ぶ用のリポジトリ
-
+Laravel で色々遊ぶ用のリポジトリ  
+ver 5.5.49  
+管理画面作ったり  
 
 ## 起動・終了
 ```
